@@ -42,7 +42,6 @@ Please note that Simulations can be re-ran for different dates and portfolio wei
 > For a 20/80 portfolio of Bonds (AGG) and Stocks (SPY):
 >> There is a 95% chance that an initial investment of USD 220000 in the portfolio over the next 10 years will end within in the range of USD 819595.32 and USD 3258919.6.
 
-```
+References:
 [Monte Carlo Simulation Library file](MCForecastTools.py/)
 
-```
