@@ -17,6 +17,8 @@ Please note that Simulations can be re-ran for different dates and portfolio wei
 ### 1) [Part 1 - Personal Finance Planner](financial-planner.ipynb)
 ### Results:
 > Combined Portfolio of Crypto Assets (Bitcoin and ETH), and Traditional Stocks (SPY) and Bonds (AGG) compares well against the Emergency Fund target of 3 times the Monthly Income of USD 12000
+> ![image](https://user-images.githubusercontent.com/51159089/172904458-fd8ce2be-eec4-4186-b65f-ed3dde4615dd.png)
+
 
 ### 2) [Part 2 - Retirement Planning](financial-planner.ipynb)
 ### Results:
@@ -26,6 +28,9 @@ Please note that Simulations can be re-ran for different dates and portfolio wei
 >> There is a 95% chance that an initial investment of USD 20000.0 in the portfolio over the next 30 years will end within in the range of USD 572510.84 and USD 3226709.24.
 >>
 >> There is a 95% chance that an initial investment of USD 30000.0 in the portfolio over the next 30 years will end within in the range of USD 858766.25 and USD 4840063.86.
+>> ![image](https://user-images.githubusercontent.com/51159089/172904562-75eceaa0-12a7-4eee-9106-5464604766dd.png)
+>> ![image](https://user-images.githubusercontent.com/51159089/172904585-58e9235e-be0c-4795-8b71-a3e01789c85e.png)
+
 
 
 ### 3) [Early Retirement](financial-planner.ipynb)
@@ -41,6 +46,9 @@ Please note that Simulations can be re-ran for different dates and portfolio wei
 
 > For a 20/80 portfolio of Bonds (AGG) and Stocks (SPY):
 >> There is a 95% chance that an initial investment of USD 220000 in the portfolio over the next 10 years will end within in the range of USD 819595.32 and USD 3258919.6.
+>![image](https://user-images.githubusercontent.com/51159089/172904652-84018833-be85-4625-a536-1b19372a625c.png)
+>![image](https://user-images.githubusercontent.com/51159089/172904672-728fb6ed-e55c-4fc8-8b2c-208fce73691f.png)
+
 
 References:
 [Monte Carlo Simulation Library file](MCForecastTools.py/)
